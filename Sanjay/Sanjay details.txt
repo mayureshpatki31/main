@@ -1,5 +1,0 @@
-Name:
-Address:
-Phone number:
-DOB:
-LOcation:
